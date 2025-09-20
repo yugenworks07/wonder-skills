@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 64ec66bd72c8c69a5cdf512867255f09eed2c97c srinivasan102k7 <47553512-srinivasan102k7@users.noreply.replit.com> 1758160208 +0000	commit (initial): Initial commit
+64ec66bd72c8c69a5cdf512867255f09eed2c97c 632aa0d7bd3ae52f158370f833c13f72e8208ce2 srinivasan102k7 <47553512-srinivasan102k7@users.noreply.replit.com> 1758160629 +0000	commit: Add initial setup and UI components for the skill learning app
+632aa0d7bd3ae52f158370f833c13f72e8208ce2 3671865d16d21fb8710403b03fcefd2c772671dc srinivasan102k7 <47553512-srinivasan102k7@users.noreply.replit.com> 1758161215 +0000	commit: Update skill details to fetch fresh data when the modal opens
